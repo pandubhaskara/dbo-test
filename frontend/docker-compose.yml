@@ -1,0 +1,13 @@
+version: "3.9"
+services:
+  dbo-test-frontend:
+    container_name: "dbo-test-frontend"
+    image: "dbo-test-frontend:${APP_VER}"
+    build:
+      context: .
+      dockerfile: .docker/Dockerfile
+    ports:
+      - 3300:80
+    env_file:
+      - .env
+    restart: unless-stopped

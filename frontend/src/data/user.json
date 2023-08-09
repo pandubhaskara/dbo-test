@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Pandu",
+    "password": "abcd1234",
+    "email": "pandu@mail.com",
+    "mobile_number": "+628214984619"
+  },
+  {
+    "id": 2,
+    "name": "Bhaskara",
+    "password": "abcd1234",
+    "email": "bhaskara@mail.com",
+    "mobile_number": "+6282211279"
+  }
+]

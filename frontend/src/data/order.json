@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "user_id": 1,
+    "product_id": 1,
+    "quantity": 10,
+    "name": "Lem",
+    "price": 10000,
+    "total": 100000,
+    "supplier_name": "Djabesmen"
+  },
+  {
+    "id": 2,
+    "user_id": 1,
+    "product_id": 2,
+    "quantity": 5,
+    "name": "Pipa",
+    "price": 15000,
+    "total": 75000,
+    "supplier_name": "Rucika"
+  }
+]
